@@ -57,7 +57,7 @@
   <a href="https://www.instagram.com/shxrn05?igsh=cHZnenBsZmNpeGZy&utm_source=qr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="wa.link/7c0k1d" target="_blank">
+  <a href="wa.me/+491778080248" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
