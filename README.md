@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning at Developer Akademie<br>🎯 Goals: Honing new Skills<br>🎲 Fun fact: I'm an Artist in many Forms!!</p>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning at Developer Akademie<br>🎯 Goals: Honing new Skills<br>🎲 Fun fact: I like to sketch!!</p>
 
 ###
 
